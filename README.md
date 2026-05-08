@@ -49,12 +49,3 @@ https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 - Conditional Filtering
 
 ---
-
-## Sample Output
-
-```python
-[(1, 207),
- (2, 184),
- (3, 163)]
-```
-
