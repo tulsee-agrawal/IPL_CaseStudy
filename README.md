@@ -1,4 +1,3 @@
-# Combined Project README
 
 # IPL Dataset Analysis using NumPy
 
